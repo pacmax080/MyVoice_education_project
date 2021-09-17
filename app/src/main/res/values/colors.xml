@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_50">#FFFBFBFB</color>
+    <color name="black_700">#FF666666</color>
+    <color name="black_400">#c2c2c2</color>
+    <color name="black_600">#7a7a7a</color>
+    <color name="neo_300">#4bd09f</color>
+    <color name="neo_400">#00aa6a</color>
+    <color name="blue_300">#00d9ff</color>
+    <color name="blue_600">#00b7e3</color>
+    <color name="purpule_400">#e300b6</color>
+    <color name="purpule_600">#cb00a6</color>
+    <color name="pink_300">#e95876</color>
+    <color name="pink_600">#cb0040</color>
+    <color name="gren_400">#2c9f93</color>
+    <color name="gren_800">#0e6256</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

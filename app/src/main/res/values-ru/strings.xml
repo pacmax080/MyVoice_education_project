@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голос Макса</string>
+    <string name="action_stop">Стоп</string>
+    <string name="action_clear">Очистить</string>
+    <string name="request_hint">Что вас интересует</string>
+    <string name="error_do_not_understand">Я вас не понял, перефразируй</string>
+    <string name="error_voice_recognition_unavailable">Распознавание голоса отключено</string>
+    <string name="error_something_went_wrong">Что то не так</string>
+    <string name="error_tts_is_not_ready">Синтез речи отключен</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaxVoice</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_clear">Clear</string>
+    <string name="request_hint">What are u interested in?</string>
+    <string name="error_do_not_understand">Sorry, I don\'t understand you, can you rephrase?</string>
+    <string name="error_voice_recognition_unavailable">voice recognition unavailable</string>
+    <string name="error_something_went_wrong">something went wrong</string>
+    <string name="error_tts_is_not_ready">tts is not ready</string>
+</resources>
